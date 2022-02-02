@@ -1,9 +1,0 @@
-pairId,type,prot1,prot2
-pair1,don,a_01_01,a_02_25
-pair1,rcpt,a_02_21,a_26_01
-pair2,don,a_01_06,a_29_01
-pair2,rcpt,a_01_08,a_01_07
-pair3,don,a_02_02,a_02_08
-pair3,rcpt,a_02_25,a_02_11
-pair4,don,a_01_12,a_01_06
-pair4,rcpt,a_01_01,a_02_01
